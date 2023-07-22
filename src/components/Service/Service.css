@@ -1,0 +1,66 @@
+.Service-detail{
+    background-color: #f5f5f5;
+    padding: 50px 0;
+    text-align: center;
+}
+.Service-media{
+    margin-bottom: 30px;
+}
+.Service-info-main{
+    margin-bottom: 30px;
+}
+.Service-add-form{
+    margin-bottom: 30px;
+}
+.Service-description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.Price-list{
+    margin-bottom: 30px;
+}
+.Service-option{
+    margin-bottom: 30px;
+}
+.warningBox{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 15px;
+    color: red;
+    font-weight: 700;
+}
+.ServiceTime{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.ServiceTime button:hover{
+    background-color: #bd7373;
+}
+.ServiceTime button{
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: 1px solid #f5f5f5;
+    border-radius: 5px;
+    color: black;
+    background-color: #d0c58f;
+    cursor: pointer;
+}
+.ServiceSummary{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.ServiceSummary div:first-child{
+    font-size: large;
+    font-weight: 700;
+}
+.ServiceSummary div:nth-child(2){
+    font-size: large;
+    font-weight: 700;
+    margin-left: 10px;
+}
